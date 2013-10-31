@@ -9,10 +9,10 @@
   },
   "dependencies": {
     "express": "3.4.0",
-    "express-validator": "~0.8.0",
     "bcrypt": "~0.7.7",
     "commander": "~2.0.0",
-    "read": "~1.0.5"
+    "read": "~1.0.5",
+    "validator": "~2.0.0"
   },
   "repository": {
     "type": "git",
